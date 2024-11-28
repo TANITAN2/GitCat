@@ -1,4 +1,5 @@
-# ❓ GitCat<br>###### Discord Webhook Bot GitCat.
+# ❓ GitCat
+###### Discord Webhook Bot GitCat.
 
 > 디스코드 웹훅 봇 **깃캣**은 개발 시 필요한 자료 및 정보들을 효과적으로 제공합니다.<br>
 > 목차에서 원하는 정보를 선택하거나 위 파일에서 정보를 찾고 얻어보세요!
