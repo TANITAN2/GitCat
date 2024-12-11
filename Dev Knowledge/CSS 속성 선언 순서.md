@@ -13,7 +13,6 @@
 
 ###### ex)
 ```css
-코드 복사
 /* 첫 번째 선언 */
 h1 {
   color: red;
@@ -24,7 +23,7 @@ h1 {
   color: blue;
 }
 ```
-위 예시에서 h1 태그는 color: blue로 스타일링됩니다.
+위 예시에서 `h1` 태그는 `color: blue`로 스타일링됩니다.
 <br><br>
 #### 2️⃣ **특이도(Specificity)**
 
@@ -36,7 +35,6 @@ h1 {
 
 ###### ex)
 ```css
-코드 복사
 /* 특이도 낮음 (요소 선택자) */
 div {
   color: red;
@@ -60,7 +58,6 @@ div {
 
 ###### ex)
 ```css
-코드 복사
 h1 {
   font-size: 20px;
 }
@@ -75,7 +72,6 @@ h1 {
 
 > `!important`는 특정 스타일을 다른 모든 스타일보다 우선시하게 만드는 강제 규칙입니다. 이 속성을 사용하면 해당 스타일이 다른 선언보다 우선 적용됩니다. 그러나 남용은 피해야 하며, 이 방법은 예외적인 경우에만 사용하는 것이 좋습니다.
 ```css
-코드 복사
 h1 {
   color: red !important;
 }
@@ -92,7 +88,6 @@ h1 {
 
 ###### ex)
 ```css
-코드 복사
 /* 기본 스타일 */
 h1 {
   font-size: 20px;
@@ -113,7 +108,6 @@ h1 {
 
 ###### ex)
 ```html
-코드 복사
 <link rel="stylesheet" href="style1.css">
 <link rel="stylesheet" href="style2.css">
 ```
