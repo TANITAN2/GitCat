@@ -13,3 +13,4 @@
 
 > ## Dev Knowledge
 > * 1️⃣ [프로그래밍 표기법(Naming Convention)](https://github.com/TANITAN2/GitCat/blob/main/Dev%20Knowledge/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%91%9C%EA%B8%B0%EB%B2%95(Naming%20Convention).md)
+> * 2️⃣ [CSS 속성 선언 순서](https://github.com/TANITAN2/GitCat/blob/main/Dev%20Knowledge/CSS%20%EC%86%8D%EC%84%B1%20%EC%84%A0%EC%96%B8%20%EC%88%9C%EC%84%9C.md)
